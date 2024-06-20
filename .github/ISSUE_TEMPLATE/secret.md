@@ -4,7 +4,7 @@
 
 ---
 name: secret
-about: "secrets"
+about: secrets
 title: ""
 labels: secret
 assignees: ""
