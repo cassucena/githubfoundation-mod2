@@ -5,7 +5,9 @@
 ---
 name: secret
 about: "secrets"
+title: ""
 labels: secret
+assignees: ""
 
 
 ---
